@@ -1,0 +1,4 @@
+[submodule "externals/Sklore/HL_DD_5e_Colab"]
+	path = externals/Sklore/HL_DD_5e_Colab
+	url = git@github.com:Sklore/HL_DD_5e_Colab.git
+	branch = master
