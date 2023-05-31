@@ -2,3 +2,7 @@
 	path = externals/Sklore/HL_DD_5e_Colab
 	url = git@github.com:Sklore/HL_DD_5e_Colab.git
 	branch = master
+[submodule "externals/shadowchemosh/HL-Pack-Pathfinder"]
+	path = externals/shadowchemosh/HL-Pack-Pathfinder
+	url = git@github.com:shadowchemosh/HL-Pack-Pathfinder.git
+	branch = master

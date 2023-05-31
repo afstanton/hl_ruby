@@ -12,7 +12,7 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 This ruby gem is intended to allow reading and writing of HeroLab Classic files in Ruby. This should include characters, monsters, items, and rules.
 
-This git repository includes the repository from Sklore as a git submodule in the externals directory. It is included under its own respective licenses for development purposes only, and is used as test fixtures to validate the code. Its presence here does not place that code or data under the MIT license, and will be removed if necessary.
+This git repository includes the repositories from Sklore and shadowchemosh as git submodules in the externals directory. They are included under their own respective licenses for development purposes only, and are used as test fixtures to validate the code. Its presence here does not place that code or data under the MIT license, and will be removed if necessary.
 
 ## Development
 
